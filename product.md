@@ -1,2 +1,4 @@
-product 1:
-product 2:
+item:Pant
+Price:600
+discount:15
+tag:clothing
